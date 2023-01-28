@@ -1,0 +1,6 @@
+framework module Pods_ExScroll {
+  umbrella header "Pods-ExScroll-umbrella.h"
+
+  export *
+  module * { export * }
+}
